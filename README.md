@@ -18,3 +18,8 @@
 - **[`Facebook`](https://www.facebook.com/groups/free.code.camp.brasilia/)**
 - **[`Instagram`](https://www.instagram.com/freecodecampbsb/)**
 - **[`eMail`](mailto:freecodecampbsb@gmail.com)** 
+
+## Organizadores
+
+- `Denis Toledo` (**[`@dnstld`](https://twitter.com/dnstld)**)
+- `Raphael Fernandes` (**[`@meetraphael`](https://twitter.com/meetraphael)**)
