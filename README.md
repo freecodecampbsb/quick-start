@@ -1,4 +1,4 @@
-![Banner freeCodeCamp Brasília](https://raw.githubusercontent.com/freecodecampbsb/quick-start/images/git-banner.jpg)
+![Banner freeCodeCamp Brasília](https://raw.githubusercontent.com/freecodecampbsb/quick-start/master/images/git-banner.jpg)
 
 # :computer: Guia rápido freeCodeCamp Brasília (WIP)
 
