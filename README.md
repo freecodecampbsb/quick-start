@@ -14,7 +14,9 @@
 
 ## Encontros
 
-Os encontros do freeCodeCamp Brasília ocorrem todos os meses, a cada quinze dias, e têm como foco a solução conjunta de exercícios e a troca de conhecimentos. 
+Os encontros do freeCodeCamp Brasília ocorrem todos os meses, a cada quinze dias, e têm como foco a solução conjunta de exercícios e a troca de conhecimentos.
+
+Vale ressaltar que nem todos os Campers são da área de tecnologia. No freeCodeCamp Brasília temos gente da área de TI, mas também gente de outras áreas. Designers, Administradores e Advogados são apenas exemplos de pessoas que você encontrará em nossa comunidade.
 
 Os eventos são anunciados em nossos meios de comunicação listados abaixo.
 
