@@ -6,7 +6,7 @@
 
 ## Primeiros passos
 
-1. Antes de qualquer coisa, leia nosso **[`FAQ`](https://github.com/freecodecampbsb/faq/blob/master/README.md)** e nosso **[`Código de conduta`](https://github.com/freecodecampbsb/conduct/blob/master/README.md).
+1. Antes de qualquer coisa, leia nosso **[`FAQ`](https://github.com/freecodecampbsb/faq/blob/master/README.md)** e nosso **[`Código de conduta`](https://github.com/freecodecampbsb/conduct/blob/master/README.md)**.
 
 2. Saiba um pouco mais sobre a comunidade **[`freeCodeCamp`](https://github.com/freecodecampbsb/about-fcc/blob/master/README.md)**.
 
