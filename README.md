@@ -1,16 +1,20 @@
 ![Banner freeCodeCamp Brasília](https://raw.githubusercontent.com/freecodecampbsb/quick-start/master/images/git-banner.jpg)
 
-# :computer: Guia rápido freeCodeCamp Brasília (WIP)
+# :computer: Guia rápido freeCodeCamp Brasília
 
 ### Olá, Camper! Seja bem-vindo à nossa Comunidade. Este é nosso guia de como começar =)
 
 ## Primeiros passos
 
-1. Faça seu cadastro no **[`freeCodeCamp`](https://www.freecodecamp.com/)** com seu e-mail.
+1. Antes de qualquer coisa, leia nosso **[`FAQ`](https://github.com/freecodecampbsb/faq/blob/master/README.md)** e nosso **[`Código de conduta`](https://github.com/freecodecampbsb/conduct/blob/master/README.md).
 
-2. Participe de nosso **[`chat no Slack`](https://fcc-bsb-invite.herokuapp.com/)**.
+2. Saiba um pouco mais sobre a comunidade **[`freeCodeCamp`](https://github.com/freecodecampbsb/about-fcc/blob/master/README.md)**.
 
-3. Participe de nosso **[`grupo no Facebook`](https://www.facebook.com/groups/free.code.camp.brasilia/)**.
+3. Faça seu cadastro no **[`freeCodeCamp`](https://www.freecodecamp.com/)** com seu e-mail.
+
+4. Participe de nosso **[`chat no Slack`](https://fcc-bsb-invite.herokuapp.com/)**.
+
+5. Participe de nosso **[`grupo no Facebook`](https://www.facebook.com/groups/free.code.camp.brasilia/)**.
 
 ## Encontros
 
